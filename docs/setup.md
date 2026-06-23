@@ -1,0 +1,1 @@
+To begin, I created boith a windows client and a windows server VM.
